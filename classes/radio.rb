@@ -63,7 +63,6 @@ class Radio
     else
       @frequency = @@am_frequency_default
     end
-    @frequency
   end
 
 end
